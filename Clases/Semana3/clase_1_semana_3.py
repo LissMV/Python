@@ -1,4 +1,4 @@
-#Clase 1, semana 2
+#Clase 1, semana 3
 
 #VARIABLES#
 
